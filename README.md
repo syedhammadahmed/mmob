@@ -1,6 +1,6 @@
 # Multimodal Malicious Or Benign Dataset
 
-# Malicious or Benign? Towards Effective Content Moderation for Children's Videos [FLAIRS '37]
+# Enhanced Multimodal Content Moderation of Children's Videos using Audiovisual Fusion [FLAIRS '37]
 
 [Enhanced Multimodal Content Moderation of Children's Videos using Audiovisual Fusion](https://journals.flvc.org/FLAIRS/article/view/135563)  
 [Syed Hammad Ahmed](https://scholar.google.com/citations?user=CjPsZXwAAAAJ&hl=en&oi=ao), [Muhammad Junaid Khan](https://scholar.google.com/citations?user=GnogxwoAAAAJ&hl=en&oi=ao), [Gita Sukthankar](https://scholar.google.com/citations?user=087P6LMAAAAJ&hl=en)
